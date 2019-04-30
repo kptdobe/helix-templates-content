@@ -1,6 +1,6 @@
 # Helix Templates
 
-![helix-logo](./helix_logo.png)
+![helix-logo](content/imgs/helix_logo.png)
 
 This page is rendered and the default template (css) is applied.
 
