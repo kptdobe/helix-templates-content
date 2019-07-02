@@ -4,7 +4,7 @@
 
 This page is rendered and the default template (css) is applied.
 
-USELESS PROJECT.
+USELESS PROJECT!
 
 ## What's next?
 
